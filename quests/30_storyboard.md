@@ -91,7 +91,7 @@ BGM: 오프닝 BGM이 점차 커지며 마무리.
 마지막으로 폭신한 밤 마들렌입니다. 한입 크기로 가볍게 즐기기 좋아요.
 ```
 
-## 이미지
+## Scence image
 [scence image_01](https://labs.google/fx/tools/whisk/share/2t4lnnqtq0000)
 
 [scence image_02](https://labs.google/fx/tools/whisk/share/2ppjsp2ua0000)
@@ -153,5 +153,6 @@ BGM: 오프닝 BGM이 점차 커지며 마무리.
 마음이 포근해질 거예요 🍁✨ (잔잔한 행복😊)
 ```
 
-## WAV 파일
+## Speech wav
+
 [감정 대사](https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/quests/speech.wav)
