@@ -93,13 +93,21 @@ BGM: 오프닝 BGM이 점차 커지며 마무리.
 
 ## 이미지
 [scence image_01](https://labs.google/fx/tools/whisk/share/2t4lnnqtq0000)
+
 [scence image_02](https://labs.google/fx/tools/whisk/share/2ppjsp2ua0000)
+
 [scence image_03](https://labs.google/fx/tools/whisk/share/0nqj4tn760000)
+
 [scence image_04](https://labs.google/fx/tools/whisk/share/6ouri9uuq0000)
+
 [scence image_05](https://labs.google/fx/tools/whisk/share/3acclu8i20000)
+
 [scence image_06](https://labs.google/fx/tools/whisk/share/4tcg5cl380000)
+
 [scence image_07](https://labs.google/fx/tools/whisk/share/5ln75q9tr0000)
+
 [scence image_08](https://labs.google/fx/tools/whisk/share/25d9e8q3c0000)
+
 [scence image_08](https://labs.google/fx/tools/whisk/share/5ccldplhf0000)
 
 ## SRT
@@ -146,4 +154,4 @@ BGM: 오프닝 BGM이 점차 커지며 마무리.
 ```
 
 ## WAV 파일
-[감정 대사]](https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/quests/speech.wav)
+[감정 대사](https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/quests/speech.wav)
