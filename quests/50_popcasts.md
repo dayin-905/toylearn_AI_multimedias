@@ -118,8 +118,9 @@ PL480 프로그램 관련 자료
 
 
 ## 신빙성 있는 출처가 있는 자료 이미지
-https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/images/%EC%95%84%EC%8B%9C%EC%95%84N%ED%83%80%EC%9D%B4%ED%8B%80.png
+![아시아N타이틀](https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/images/%EC%95%84%EC%8B%9C%EC%95%84N%ED%83%80%EC%9D%B4%ED%8B%80.png)
 
-https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/images/%EC%95%84%EC%8B%9C%EC%95%84N.png
+![아시아N](https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/images/%EC%95%84%EC%8B%9C%EC%95%84N.png)
 
-https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/images/%EC%95%88%ED%8C%A1.jpg
+
+![안팡](https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/images/%EC%95%88%ED%8C%A1.jpg)
