@@ -12,4 +12,4 @@
 
 
 ## Youtube Link
-[안녕! #Daybread](https://youtu.be/-zAMRLZcbaA)
+[안녕! #Daybread](https://youtu.be/Xs73-eiB7eA)
