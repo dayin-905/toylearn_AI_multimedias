@@ -1,0 +1,1 @@
+![캐릭터](https://github.com/dayin-905/toylearn_AI_multimedias/blob/main/images/character.png)
